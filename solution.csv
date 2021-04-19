@@ -1,0 +1,32 @@
+Project A,M1,Contractor A
+Project A,M2,Contractor E
+Project A,M3,Contractor K
+Project B,M3,Contractor G
+Project B,M4,Contractor K
+Project B,M5,Contractor B
+Project C,M4,Contractor H
+Project C,M5,Contractor E
+Project C,M6,Contractor G
+Project C,M7,Contractor E
+Project C,M8,Contractor E
+Project D,M2,Contractor H
+Project D,M3,Contractor F
+Project D,M4,Contractor G
+Project D,M5,Contractor H
+Project E,M8,Contractor C
+Project E,M9,Contractor A
+Project G,M5,Contractor A
+Project G,M6,Contractor B
+Project G,M7,Contractor A
+Project H,M8,Contractor A
+Project H,M9,Contractor E
+Project H,M10,Contractor H
+Project H,M11,Contractor G
+Project I,M10,Contractor D
+Project I,M11,Contractor F
+Project I,M12,Contractor B
+
+Projects_considered_for_profit_margin : ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+ Cost: 5200
+ Value: 7700
+Profit Margin: 2500
